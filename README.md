@@ -261,7 +261,7 @@ https://www.linkedin.com/in/sourabh9098
 
 ---
 
-# ⭐ Support
+# Support
 
 If you found this project useful , consider giving it a⭐ on GitHub
 
