@@ -273,4 +273,4 @@ Made with using Python , TensorFlow and Streamlit
 </p>
 
 
-<h1>Author - Sourabh Vishwakarma Final Year B.Tech CSE ( AI ) Technocrats Institute of Technology , Bhopal</h1>
+<h5>Author - Sourabh Vishwakarma Final Year B.Tech CSE ( AI ) Technocrats Institute of Technology , Bhopal</h5>
