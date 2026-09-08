@@ -268,6 +268,9 @@ If you found this project useful , consider giving it a⭐ on GitHub
 
 <p align="center">
 
-Made with ❤️ using Python, TensorFlow and Streamlit
+Made with using Python , TensorFlow and Streamlit
 
 </p>
+
+
+<h1>Author - Sourabh Vishwakarma Final Year B.Tech CSE ( AI ) Technocrats Institute of Technology , Bhopal</h1>
